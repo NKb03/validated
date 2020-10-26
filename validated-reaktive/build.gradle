@@ -1,0 +1,6 @@
+version '1.0-SNAPSHOT'
+
+dependencies {
+    implementation "com.github.nkb03:reaktive:1.0-SNAPSHOT"
+    implementation project(":")
+}
